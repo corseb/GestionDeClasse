@@ -2,7 +2,8 @@
 <resources>
 
     <string name="app_name">Gestion de Classe</string>
-    <string name="action_settings">Paramètres</string>
+    <string name="action_settings">Paramètres action</string>
+    <string name="menu_settings">Paramètres</string>
     <string name="tV1_text"></string>
     <string name="texte_bouton">Interroger</string>
     <string name="tV2_text">Debug infos</string>

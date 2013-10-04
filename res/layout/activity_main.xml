@@ -8,15 +8,6 @@
     android:paddingTop="@dimen/activity_vertical_margin"
     tools:context=".MainActivity" >
 
-    <Button
-        android:id="@+id/button1"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_alignParentTop="true"
-        android:layout_centerHorizontal="true"
-        android:onClick="selectPupil"
-        android:text="@string/texte_bouton" />
-
     <TextView
         android:id="@+id/tV_pupil_name"
         android:layout_width="match_parent"
@@ -34,4 +25,27 @@
         android:layout_alignParentBottom="true"
         android:text="@string/tV2_text" />
 
+    <Button
+        android:id="@+id/button1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignRight="@+id/tV_pupil_name"
+        android:onClick="selectPupil"
+        android:text="@string/texte_bouton" />
+
+    <TextView
+        android:id="@+id/textUserSettings"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="20sp"
+        tools:context=".MainActivity" />
+
+    <Spinner
+        android:id="@+id/spinnerClasse"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:entries="@array/liste_classes" />
+    
 </RelativeLayout>
