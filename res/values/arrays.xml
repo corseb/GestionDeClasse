@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+   	<string-array name="liste_classes">
+        <item>CE1</item>
+        <item>CM1</item>
+    </string-array>                  
+    <string-array name="liste_eleves_CM1">
+    	<item>Iman</item>
+        <item>Sami</item>
+        <item>Mohamed</item>
+        <item>Jassime</item>
+        <item>Yasmine</item>
+        <item>Rayane</item>
+        <item>Hajera</item>
+        <item>Alisson</item>
+        <item>Djibril</item>
+        <item>Estelle</item>
+        <item>Gabrielle</item>
+        <item>Marie</item>
+        <item>Chériane</item>
+        <item>Shiraz</item>
+        <item>Méroine</item>
+        <item>Ludovic</item>
+        <item>Yesmine</item>
+        <item>Sabri</item>
+        <item>Dounia</item>
+        <item>Samy</item>
+        <item>Améline</item>
+        <item>Mansoib</item>
+        <item>Mehdy</item>
+        <item>Scott</item>
+        <item>Malak</item>
+        <item>Léa</item>    
+    </string-array>        
+   	<string-array name="liste_eleves_CE1">
+        <item>Amine</item>
+        <item>Bilal</item>
+        <item>Neila</item>
+        <item>Mohamed</item>
+        <item>Théo</item>
+        <item>Safa</item>
+        <item>Chahinaze</item>
+        <item>José Filipe</item>
+        <item>Kylian</item>
+        <item>Rayan</item>
+        <item>Diego</item>
+        <item>Tom</item>
+        <item>Chaïma</item>
+        <item>Samy</item>
+        <item>Nam</item>
+        <item>Rayane</item>
+        <item>Mélissa</item>
+        <item>Yasmine</item>
+        <item>Anais</item>
+        <item>Lucas</item>
+        <item>Salvina</item>
+        <item>Matthias</item>
+    </string-array>                  
+</resources>
